@@ -62,10 +62,15 @@ function rock_paper_scissors(){
 rock_paper_scissors();
 
 
+function spongeBob(){
+	for(var i = 0; i<50; i++){
+		console.log("Are you ready kids?");
+		console.log("aye aye captain");
+	}
+}
 
 
-
-
+spongeBob();
 
 
 
